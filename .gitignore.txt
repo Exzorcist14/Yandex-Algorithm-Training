@@ -1,3 +1,17 @@
 YandexAlgorithms#1.1
 YandexAlgorithms#1.2
 YandexAlgorithms#1.3
+YandexAlgorithms#3A.1
+YandexAlgorithms#3A.2
+YandexAlgorithms#3A.3
+YandexAlgorithms#3A.4
+YandexAlgorithms#3A.5
+YandexAlgorithms#3A.6
+YandexAlgorithms#3AB.0
+YandexAlgorithms#3AB.FS
+YandexAlgorithms#3B.1
+YandexAlgorithms#3B.2
+YandexAlgorithms#3B.3
+YandexAlgorithms#3B.4
+YandexAlgorithms#3B.5
+YandexAlgorithms#3B.6
