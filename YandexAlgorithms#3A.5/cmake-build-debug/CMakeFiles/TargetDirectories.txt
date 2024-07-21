@@ -1,0 +1,3 @@
+C:/Users/vova_/CLionProjects/YandexAlgorithms#3A.5/cmake-build-debug/CMakeFiles/YandexAlgorithms_3A_5.dir
+C:/Users/vova_/CLionProjects/YandexAlgorithms#3A.5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vova_/CLionProjects/YandexAlgorithms#3A.5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

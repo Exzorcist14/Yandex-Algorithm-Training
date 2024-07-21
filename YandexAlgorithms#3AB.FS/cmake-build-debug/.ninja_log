@@ -1,0 +1,6 @@
+# ninja log v5
+4	333	7353984213145717	build.ninja	386872e958f2934a
+9	2561	7353525688190482	CMakeFiles/YandexAlgorithms_3AB_FS.dir/Task1.cpp.obj	f0a3728199357ac8
+2214	2354	7353608255252538	YandexAlgorithms_3AB_FS.exe	4273533751401adf
+7	2382	7353577531842997	CMakeFiles/YandexAlgorithms_3AB_FS.dir/Task2.cpp.obj	1c153d75fd665eac
+7	2213	7353608253883378	CMakeFiles/YandexAlgorithms_3AB_FS.dir/Task3.cpp.obj	71d2135d346474ef

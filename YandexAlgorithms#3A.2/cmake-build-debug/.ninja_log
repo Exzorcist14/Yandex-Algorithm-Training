@@ -1,0 +1,17 @@
+# ninja log v5
+3	311	7352225256263073	build.ninja	7b8707703c0a8d67
+9	2524	7351872009160523	CMakeFiles/YandexAlgorithms_3A_2.dir/Task1.cpp.obj	dcd92bf988df4f1a
+2525	2660	7351872010491360	YandexAlgorithms_3A_2.exe	d12359f9bae9e337
+13	338	7352225256263073	build.ninja	7b8707703c0a8d67
+22	2974	7352225286510267	CMakeFiles/YandexAlgorithms_3A_2.dir/Task1(Blocks).cpp.obj	81db157d1af10de5
+2979	3264	7352225289370178	YandexAlgorithms_3A_2.exe	e3715aae10ea0e77
+9	2470	7352229442975735	CMakeFiles/YandexAlgorithms_3A_2.dir/Task1(Blocks).cpp.obj	81db157d1af10de5
+2471	2604	7352229444274613	YandexAlgorithms_3A_2.exe	e3715aae10ea0e77
+7	2309	7352229796656903	CMakeFiles/YandexAlgorithms_3A_2.dir/Task1(Blocks).cpp.obj	81db157d1af10de5
+2310	2444	7352229797983055	YandexAlgorithms_3A_2.exe	e3715aae10ea0e77
+8	2256	7352230259632323	CMakeFiles/YandexAlgorithms_3A_2.dir/Task1(Blocks).cpp.obj	81db157d1af10de5
+2257	2425	7352230260969713	YandexAlgorithms_3A_2.exe	e3715aae10ea0e77
+8	2312	7352232739003298	CMakeFiles/YandexAlgorithms_3A_2.dir/Task1(Blocks).cpp.obj	81db157d1af10de5
+2313	2450	7352232740334100	YandexAlgorithms_3A_2.exe	e3715aae10ea0e77
+7	2156	7352233076638635	CMakeFiles/YandexAlgorithms_3A_2.dir/Task1(Blocks).cpp.obj	81db157d1af10de5
+2157	2277	7352233077834606	YandexAlgorithms_3A_2.exe	e3715aae10ea0e77
